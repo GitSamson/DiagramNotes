@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T07:40:36.608Z" agent="5.0 (iPad; CPU OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/97.0.4692.84 Mobile/15E148 Safari/604.1" etag="zpsh1vgf2QlPNGdAoem2" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-05T08:50:01.011Z" agent="5.0 (iPad; CPU OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/97.0.4692.84 Mobile/15E148 Safari/604.1" etag="KQxPutH594vszyfhNJx1" version="16.5.3" type="github">
   <diagram id="JgHB5_adZ3BiKenlx3uW" name="Page-1">
-    <mxGraphModel dx="480" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="535" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d-eMXvBhvW7IOMYEsppj-1" value="Database: Notion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d-eMXvBhvW7IOMYEsppj-2" value="Trigger: Automate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d-eMXvBhvW7IOMYEsppj-5" value="Processor: python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="335" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d-eMXvBhvW7IOMYEsppj-7" value="Tried use excel script, but due to limitation of subscription / admin permission, cannot open it&amp;nbsp;" style="whiteSpace=wrap;html=1;align=right;fontStyle=2;fontColor=default;fillColor=default;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="335" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
