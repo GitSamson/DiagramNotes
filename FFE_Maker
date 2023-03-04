@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T07:58:26.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="jZ9B-zU8T1RjJZLNIekG" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:30:07.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="MvWrX211Vjpgd3uIgCfi" version="21.0.2" type="github" pages="2">
   <diagram id="JgHB5_adZ3BiKenlx3uW" name="dataFormat">
     <mxGraphModel dx="708" dy="554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JPdyiEqI1LvZC8lxZ316" name="server">
-    <mxGraphModel dx="483" dy="1145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="644" dy="1227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -666,6 +666,9 @@
         <mxCell id="TxMyKtbputRl_3DHZmWI-25" value="This action wont happen, only in client" style="whiteSpace=wrap;html=1;fontSize=8;strokeColor=none;align=left;" parent="TxMyKtbputRl_3DHZmWI-1" vertex="1">
           <mxGeometry x="121" y="34" width="143" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="zhOBIxMFxpcUnAaflvvh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TxMyKtbputRl_3DHZmWI-1" source="zhOBIxMFxpcUnAaflvvh-1" target="zhOBIxMFxpcUnAaflvvh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zhOBIxMFxpcUnAaflvvh-1" value="Verify latest xlsx" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=8;fontColor=#4D4D4D;fillColor=#CCCCCC;opacity=40;strokeColor=default;rounded=1;glass=0;perimeterSpacing=0;arcSize=50;" vertex="1" parent="TxMyKtbputRl_3DHZmWI-1">
           <mxGeometry x="31" y="75" width="80" height="27" as="geometry" />
         </mxCell>
@@ -768,6 +771,9 @@
         </mxCell>
         <mxCell id="TxMyKtbputRl_3DHZmWI-90" value="data rewrite" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=8;" parent="TxMyKtbputRl_3DHZmWI-87" vertex="1">
           <mxGeometry y="41" width="83" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="zhOBIxMFxpcUnAaflvvh-11" value="Duplicate Data" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=8;fontColor=#4D4D4D;fillColor=#CCCCCC;opacity=40;strokeColor=default;rounded=1;glass=0;perimeterSpacing=0;arcSize=50;" vertex="1" parent="TxMyKtbputRl_3DHZmWI-1">
+          <mxGeometry x="31" y="155" width="80" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TxMyKtbputRl_3DHZmWI-23" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#82b366;fontColor=#4D4D4D;fillColor=#d5e8d4;elbow=vertical;endArrow=oval;endFill=1;" parent="1" source="kMvbA3emWC4mOi5Cy_tc-25" target="TxMyKtbputRl_3DHZmWI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
